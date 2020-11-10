@@ -1,2 +1,3 @@
-Calculator.class
-TextProcessor.class
+com\Chokealot\Labb2\jUnit\Calculator.class
+com\Chokealot\Labb2\jUnit\TextProcessor.class
+com\Chokealot\Labb2\jUnit\Main.class

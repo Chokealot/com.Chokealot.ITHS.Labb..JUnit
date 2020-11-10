@@ -1,7 +1,5 @@
 package com.Chokealot.Labb2.jUnit;
 
-import java.text.Format;
-
 public class TextProcessor {
 
     public String upperCase(String str) {

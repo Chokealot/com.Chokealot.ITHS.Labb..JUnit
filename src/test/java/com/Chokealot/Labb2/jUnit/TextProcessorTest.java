@@ -1,6 +1,5 @@
 package com.Chokealot.Labb2.jUnit;
 
-import com.Chokealot.Labb2.jUnit.TextProcessor;
 import org.junit.jupiter.api.*;
 import org.junit.jupiter.params.ParameterizedTest;
 import org.junit.jupiter.params.provider.ValueSource;
@@ -8,8 +7,6 @@ import org.junit.jupiter.params.provider.ValueSource;
 import static org.junit.jupiter.api.Assertions.*;
 
 public class TextProcessorTest {
-
-        public static StringBuilder stringBuilder = new StringBuilder();
 
         public static TextProcessor tp = new TextProcessor();
 
